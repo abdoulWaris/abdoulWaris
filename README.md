@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 
 ## 📈 GitHub Stats
 
-//![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdoulWaris&langs_count=10&theme=radical)
+//![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdoulWaris&langs_count=15&theme=horizontal)
 
 ![Abdoul Waris' GitHub stats](https://github-readme-stats.vercel.app/api?username=abdoulWaris&show_icons=true&theme=radical)
 
