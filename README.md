@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 
 ## 🔧 Technologies & Tools
 
-- Programming Languages: PHP, JavaScript, Java, C
+- Programming Languages: PHP, JavaScript, Java, C, Spring Boot and Laravel
 - Web Development: HTML, CSS, React, Node.js
 - Databases: MySQL
 - Tools: Git, Docker, Kubernetes, Jenkins, AZURE
